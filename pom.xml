@@ -3,4 +3,11 @@
   <groupId>com.vinnovation</groupId>
   <artifactId>simpleingestion</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.vinnovation</groupId>
+  		<artifactId>simpleweatherconnector</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
